@@ -6,6 +6,7 @@ All the leetcode problems , Ill solve will be posted here
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/sksamad3/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sksamad3/LeetCode/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/sksamad3/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
