@@ -21,4 +21,12 @@ All the leetcode problems , Ill solve will be posted here
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/sksamad3/LeetCode/tree/master/1013-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/sksamad3/LeetCode/tree/master/2048-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/sksamad3/LeetCode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
